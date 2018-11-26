@@ -8,4 +8,4 @@ Two players take turns, X and O and select a field by tapping on it. Press Minus
 Based on https://github.com/switchbrew/switch-examples/tree/master/hid/touch-screen
 
 ### Screenshot
-![screenshot](https://i.imgur.com/gfkIHKa.png)
+![screenshot](https://i.imgur.com/5QVb72C.png)
